@@ -1,0 +1,8 @@
+.project
+gmon.out
+.*.swp
+.settings.xml
+.DS_Store
+node_modules/**/*
+debug/*
+tmp/*

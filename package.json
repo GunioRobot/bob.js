@@ -1,0 +1,20 @@
+{
+  "author": "Ricardo Lanziano <ricardo.lanziano@gmail.com>",
+  "contributors": [
+    { "name": "Daniel Aristizabal", "email": "aristizabal.daniel@gmail.com" }
+  ],
+  "name": "bob",
+  "description": "BOB bindings for NodeJS",
+  "main": "./lib/bob",
+  "version": "0.0.1",
+  "keywords": ["i2p", "p2p", "darknet"],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.4.10"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
