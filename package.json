@@ -10,7 +10,7 @@
   "keywords": ["i2p", "p2p", "darknet"],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/arpunk/bob.js"
   },
   "engines": {
     "node": ">= 0.4.10"
