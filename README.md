@@ -1,6 +1,6 @@
 # Intro
 
-NOTE: Warning, this is currently broker and I don't have enought time right now to properly finish this bindings,
+NOTE: Warning, this is currently broken and I don't have enought time right now to properly finish this bindings,
 however *I will find some time* to finish an usable implementation of BOB for node.js, thanks. If you want to help
 out send me a message.
 
