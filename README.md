@@ -47,7 +47,6 @@ TBD
 
 # Motivation
 
-There is no I2P sweetness in the node world. I love JS, I love node, I love I2P. It seemed obviously.
+There is no I2P sweetness in the node world. I love JS, I love node, I love I2P. It seemed obvious.
 
-This should help you when creating dynamic tunnels via JavaScript.
-
+This should help you if you want to create dynamic tunnels using JavaScript for making stream connections in I2P.
